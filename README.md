@@ -24,7 +24,6 @@ STEP 6: Use zscore of to remove outliers
 
 
 
-<img width="1395" height="404" alt="Screenshot 2025-11-28 162416" src="https://github.com/user-attachments/assets/12358ad9-799a-421a-9df6-65cbcc8a77b9" />
 
 
 <img width="1178" height="573" alt="Screenshot 2025-12-01 100653" src="https://github.com/user-attachments/assets/88979881-6e5a-424b-8bb2-98624ee13900" />
